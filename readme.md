@@ -22,11 +22,3 @@ This is a HTML5 Responsive site template suitable for Courses, colleges, Worksho
 .
 .
 .
-
-[![Nihory - Portfolio site template live demo](https://i.ibb.co/vwN8cgW/live-demo.png)](https://education-atulcodex.netlify.app/)
-.
-.
-.
-.
-.
-[![Atul - Buy Me A Coffee](https://i.ibb.co/7rR9S4L/buy-me-a-coffee.png)](https://www.buymeacoffee.com/atulcodex)
